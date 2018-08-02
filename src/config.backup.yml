@@ -1,5 +1,3 @@
-nitrogen-config: /home/bob/.config/nitrogen/bg-saved.cfg
-wallpaper-path: /home/bob/.config/nitrogen/
 i3-config: /home/bob/.i3/config
 polybar-config: /home/bob/.config/polybar/config
 xresources: /home/bob/.Xresources
